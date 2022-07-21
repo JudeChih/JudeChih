@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JudeChih
+- 👋 Hi, I’m T
 - 👀 I’m interested in playing PC game and go outside with family
 - 🌱 I’m currently learning React and Angular
 - 💞️ I’m looking to collaborate on front-end or back-end
